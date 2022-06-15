@@ -1,0 +1,22 @@
+html,
+
+.card h1 {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-justify: auto;
+  font-style: italic;
+  font-size: 25px;
+  
+}
+
+body {
+  padding: 50px;
+  background-color: aquamarine;
+  height: flex;
+  width: flex;
+  text-align: center;
+  line-height: 40px;	/*	tamanho	da	altura	de	cada	linha	*/
+  letter-spacing: 3px;	/*	tamanho	do	espaço	entre	cada	letra	*/
+  word-spacing: 100px;	/*	tamanho	do	espaço	entre	cada	palavra	*/
+  text-indent: 30px;	/*	tamanho	da	margem	da	primeira	linha	do	texto	*/  
+
+}

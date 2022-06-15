@@ -1,0 +1,9 @@
+.fraseContainer{ /*Nunca colocar traço no nome*/
+    background-color: #333; /*Cor do plano de fundo*/
+    border: 1px solid #111; /*Medida e cor da borda*/
+}
+
+.fraseContent{
+    color: #fff;
+    background-color:#333;
+}

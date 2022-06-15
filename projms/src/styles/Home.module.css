@@ -1,0 +1,14 @@
+
+.card h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration-color: cadetblue;
+  font-style: italic;
+  
+}
+.card header {
+  align-items: flex-start;
+  
+}
+.card span {
+  align-items: flex-start;
+}

@@ -1,0 +1,13 @@
+body {
+  padding:200px;
+  background-color: #efefef;
+}
+
+h1 {
+  color: rgb(105, 105, 105);
+}
+
+p{
+  background-color: #999;
+  padding: 10px;
+}
